@@ -21,7 +21,7 @@ Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a C
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Expenso-Flutter](https://github.com/sounishnath003/Expenso);
 - 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔;
@@ -32,7 +32,7 @@ Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a C
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sounish-nath-897b30186/) | [Instagram](https://www.instagram.com/sounish003/) ;
 - 📝[Resume](https://drive.google.com/file/d/1eKI1zrUZF4kRoB2k8ARQ31fU5E2o9tF7/view?usp=sharing)
 
-**Languages and Tools:**  
+### **Languages and Tools:**  
 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -48,6 +48,9 @@ Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a C
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=sounishnath003&show_icons=true&hide_border=true)
+![Sounish's github stats](https://github-readme-stats.vercel.app/api?username=sounishnath003&show_icons=true&hide_border=true)
+
+
+
 
 
