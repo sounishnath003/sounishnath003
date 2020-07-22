@@ -50,5 +50,5 @@ Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a C
 
 
 
-![Sounish's github stats](https://github-readme-stats.vercel.app/api?username=sounishnath003&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+![Sounish's github stats](https://github-readme-stats.vercel.app/api?username=sounishnath003&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
