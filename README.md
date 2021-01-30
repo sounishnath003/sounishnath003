@@ -13,7 +13,7 @@
   <img align="left" alt="Sounish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=sounishnath003.sounishnath003)
 
 <br />
 
@@ -25,7 +25,7 @@ Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a C
   
 ### **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Expenso-Flutter](https://github.com/sounishnath003/Expenso);
+- 👨🏽‍💻 I’m currently working on [Educatify - Google Classroom Clone](https://github.com/sounishnath003/Educatify);
 - 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔;
 - 👯 I’m looking to collaborate on [Algorithms-Visualizations](https://github.com/sounishnath003/Expenso) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭❤;
