@@ -22,6 +22,7 @@ Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a C
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<a style="text-align: right;" href="https://app.daily.dev/sounishnath003"><img src="https://api.daily.dev/devcards/03b013ebac5048939dd824d337bdee4b.png?r=qpr" width="400" alt="sounish nath's Dev Card"/></a>
   
 ### **Talking about Personal Stuffs:**
 
