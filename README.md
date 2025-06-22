@@ -15,7 +15,7 @@
 
 ## Work Experience
 
-### Software Developer 2 **•** Oracle, Bengaluru
+### Software Engineer II **•** Oracle, Bengaluru
 April 2025 - Present
 
 ### Software Developer **•** Tata Consultancy Services, Mumbai
