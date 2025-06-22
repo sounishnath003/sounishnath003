@@ -15,25 +15,24 @@
 
 ## Work Experience
 
-### Software Engineer II **•** Oracle, Bengaluru
-April 2025 - Present
+#### Software Engineer II **•** Oracle, Bengaluru **•** April 2025 - Present
 
-### Software Developer **•** Tata Consultancy Services, Mumbai
-August 2021 - April 2025
+#### Software Developer **•** Tata Consultancy Services, Mumbai **•** August 2021 - April 2025
+
 
 
 ## Personal Projects
 
-### 1. Codewarden: Agentic AI Code Reviewer **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
-### 2. Lofiloops.sh: Play Soft Lofi beats on loop **•** [Live](https://lofiloops-797087556919.asia-south1.run.app/) **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
+- **Codewarden: Agentic AI Code Reviewer** **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
+- **Lofiloops.sh: Play Soft Lofi beats on loop** **•** [Live](https://lofiloops-797087556919.asia-south1.run.app/) **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
 
-### 3. Referral Emailer Service – AI-powered, Self-hosted, Performant, Full control in Go. **•** [Github](https://github.com/sounishnath003/referrer-emailer-go) **•** [YouTube](https://www.youtube.com/watch?v=inUOMpEnzL4)
+- **Referral Emailer Service – AI-powered, Self-hosted, Performant, Full control in Go.** **•** [Github](https://github.com/sounishnath003/referrer-emailer-go) **•** [YouTube](https://www.youtube.com/watch?v=inUOMpEnzL4)
 
-### 4. [IntervieewMe.AI](https://www.youtube.com/watch?v=t_-JyN0Lis8) - InterviewMe.AI – AI-Powered Interview Platform **•** [Github](https://github.com/sounishnath003/intervieew-mee.ai) **•** [YouTube](https://www.youtube.com/watch?v=t_-JyN0Lis8)
+- [IntervieewMe.AI](https://www.youtube.com/watch?v=t_-JyN0Lis8) - **InterviewMe.AI – AI-Powered Interview Platform** **•** [Github](https://github.com/sounishnath003/intervieew-mee.ai) **•** [YouTube](https://www.youtube.com/watch?v=t_-JyN0Lis8)
 
-### 5. URL Shortner Service - Golang **•** [Github](https://github.com/sounishnath003/url-shortner-service-golang) **•** [YouTube](https://www.youtube.com/watch?v=o0OwyO-WH4g)
+- **URL Shortner Service - Golang** **•** [Github](https://github.com/sounishnath003/url-shortner-service-golang) **•** [YouTube](https://www.youtube.com/watch?v=o0OwyO-WH4g)
 
-### 6. Medium Blogs Clone - Full-stack **•** [Github](https://github.com/sounishnath003/fullstack-microservice-golang-gke) **•** [YouTube](https://www.youtube.com/watch?v=CvCA86iXHIE)
+- **Medium Blogs Clone - Full-stack** **•** [Github](https://github.com/sounishnath003/fullstack-microservice-golang-gke) **•** [YouTube](https://www.youtube.com/watch?v=CvCA86iXHIE)
 
 
 ![Sounish's github stats](https://github-readme-stats.vercel.app/api?username=sounishnath003&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
