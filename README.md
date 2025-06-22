@@ -24,30 +24,24 @@ August 2021 - April 2025
 
 ## Personal Projects
 
-### Codewarden: Agentic AI Code Reviewer
-[Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
+### Codewarden: Agentic AI Code Reviewer **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
 - **Tech Stack**: Python3, CrewAI, Google Cloud, Gemini 2.0
 
-### Lofiloops.sh: Play Soft Lofi beats on loop
-[Live](https://lofiloops-797087556919.asia-south1.run.app/) **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
+### Lofiloops.sh: Play Soft Lofi beats on loop **•** [Live](https://lofiloops-797087556919.asia-south1.run.app/) **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
 - **Tech Stack**: HTML, CSS, JavaScript, YouTube Data v3 API
 
-### Referral Emailer Service – AI-powered, Self-hosted, Performant, Full control in Go.
-[Github](https://github.com/sounishnath003/referrer-emailer-go) **•** [YouTube](https://www.youtube.com/watch?v=inUOMpEnzL4)
+### Referral Emailer Service – AI-powered, Self-hosted, Performant, Full control in Go. **•** [Github](https://github.com/sounishnath003/referrer-emailer-go) **•** [YouTube](https://www.youtube.com/watch?v=inUOMpEnzL4)
 - **Tech Stack:** Golang, Echo, Mongodb, GCP, Generative AI, Docker, Redis
 
-### [IntervieewMe.AI](https://www.youtube.com/watch?v=t_-JyN0Lis8) - InterviewMe.AI – AI-Powered Interview Platform
-[Github](https://github.com/sounishnath003/intervieew-mee.ai) **•** [YouTube](https://www.youtube.com/watch?v=t_-JyN0Lis8)
+### [IntervieewMe.AI](https://www.youtube.com/watch?v=t_-JyN0Lis8) - InterviewMe.AI – AI-Powered Interview Platform **•** [Github](https://github.com/sounishnath003/intervieew-mee.ai) **•** [YouTube](https://www.youtube.com/watch?v=t_-JyN0Lis8)
 - **Tech Stack:** Angular, NestJS, GCP, WebRTC, Gemini
 
 
-### URL Shortner Service - Golang
-[Github](https://github.com/sounishnath003/url-shortner-service-golang) **•** [YouTube](https://www.youtube.com/watch?v=o0OwyO-WH4g)
+### URL Shortner Service - Golang **•** [Github](https://github.com/sounishnath003/url-shortner-service-golang) **•** [YouTube](https://www.youtube.com/watch?v=o0OwyO-WH4g)
 - **Tech Stack:** Golang, Redis, Bloom Filters, Base62 Encoder, REST
 
 
-### Medium Blogs Clone - Full-stack
-[Github](https://github.com/sounishnath003/fullstack-microservice-golang-gke) **•** [YouTube](https://www.youtube.com/watch?v=CvCA86iXHIE)
+### Medium Blogs Clone - Full-stack **•** [Github](https://github.com/sounishnath003/fullstack-microservice-golang-gke) **•** [YouTube](https://www.youtube.com/watch?v=CvCA86iXHIE)
 - **Tech Stack:** Golang, Angular, Postgresql, Kubernetes, OAuth2
 
 
