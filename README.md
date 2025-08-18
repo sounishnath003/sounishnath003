@@ -9,7 +9,7 @@
 
 - **Languages:** Python, JavaScript, Java, Golang, SQL
 - **Frontend:** React.js, Angular, HTML5, CSS3, TypeScript, TailwindCSS
-- **Backend:** Node.js, Django, Go, RESTful APIs, Graphql, Apache Spark, Kafka, Event-driven systems, Microservices, Airflow, Big Data, Hadoop, Data warehousing, Oracle, Agile
+- **Backend:** Node.js, Django, Go, RESTful APIs, GraphQL, Apache Spark, Kafka, Event-driven systems, Microservices, Airflow, Big Data, Hadoop, Data warehousing, Oracle, Agile
 - **Cloud & DevOps:** GCP, AWS, EC2, S3, SQS, Pubsub, Docker, Kubernetes, CI/CD
 - **Databases:** BigQuery, PostgreSQL, MongoDB, Redis, SQL Server
 
@@ -23,15 +23,13 @@
 
 ## Personal Projects
 
+- **Taskflow: Weekplanner AI** **•** [Github](https://github.com/sounishnath003/taskflow-weekplanner/)
+- **MoneyMinder: Personal Finance Management** **•* [Github](https://github.com/sounishnath003/money-minder)
 - **Codewarden: Agentic AI Code Reviewer** **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
 - **Lofiloops.sh: Play Soft Lofi beats on loop** **•** [Live](https://lofiloops-797087556919.asia-south1.run.app/) **•** [Github](https://github.com/sounishnath003/codewarden-code-reviewer/)
-
 - **Referral Emailer Service – AI-powered, Self-hosted, Performant, Full control in Go.** **•** [Github](https://github.com/sounishnath003/referrer-emailer-go) **•** [YouTube](https://www.youtube.com/watch?v=inUOMpEnzL4)
-
 - [IntervieewMe.AI](https://www.youtube.com/watch?v=t_-JyN0Lis8) - **InterviewMe.AI – AI-Powered Interview Platform** **•** [Github](https://github.com/sounishnath003/intervieew-mee.ai) **•** [YouTube](https://www.youtube.com/watch?v=t_-JyN0Lis8)
-
 - **URL Shortner Service - Golang** **•** [Github](https://github.com/sounishnath003/url-shortner-service-golang) **•** [YouTube](https://www.youtube.com/watch?v=o0OwyO-WH4g)
-
 - **Medium Blogs Clone - Full-stack** **•** [Github](https://github.com/sounishnath003/fullstack-microservice-golang-gke) **•** [YouTube](https://www.youtube.com/watch?v=CvCA86iXHIE)
 
 
@@ -39,4 +37,4 @@
 
 --- 
 
-<img width="1412" alt="image" src="https://github.com/user-attachments/assets/a3dfef6c-c436-4ce1-89b1-9e3f370fe341" />
+<img width="1236" height="805" alt="image" src="https://github.com/user-attachments/assets/dcfb850a-e6ad-4325-844c-703296974d66" />
